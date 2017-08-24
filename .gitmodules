@@ -4,3 +4,6 @@
 [submodule "tender.vim"]
 	path = tender.vim
 	url = git@github.com:jacoborus/tender.vim.git
+[submodule "delimitMate"]
+	path = delimitMate
+	url = git@github.com:Raimondi/delimitMate.git
