@@ -1,3 +1,6 @@
 [submodule "lightline.vim"]
 	path = lightline.vim
 	url = git@github.com:itchyny/lightline.vim.git
+[submodule "tender.vim"]
+	path = tender.vim
+	url = git@github.com:jacoborus/tender.vim.git
