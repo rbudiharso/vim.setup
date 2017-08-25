@@ -7,3 +7,6 @@
 [submodule "delimitMate"]
 	path = delimitMate
 	url = git@github.com:Raimondi/delimitMate.git
+[submodule "syntastic-local-eslint.vim"]
+	path = syntastic-local-eslint.vim
+	url = git@github.com:mtscout6/syntastic-local-eslint.vim.git
