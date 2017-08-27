@@ -1,5 +1,5 @@
 set cursorline
-colorscheme tender
+colorscheme mango
 
 let g:syntastic_mode_map = {
     \ "mode": "active",

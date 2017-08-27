@@ -13,3 +13,6 @@
 [submodule "vim-jsx"]
 	path = vim-jsx
 	url = https://github.com/mxw/vim-jsx.git
+[submodule "mango.vim"]
+	path = mango.vim
+	url = https://github.com/goatslacker/mango.vim.git
