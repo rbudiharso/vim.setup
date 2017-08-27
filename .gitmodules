@@ -10,3 +10,6 @@
 [submodule "syntastic-local-eslint.vim"]
 	path = syntastic-local-eslint.vim
 	url = git@github.com:mtscout6/syntastic-local-eslint.vim.git
+[submodule "vim-jsx"]
+	path = vim-jsx
+	url = https://github.com/mxw/vim-jsx.git

@@ -1,3 +1,4 @@
+set cursorline
 colorscheme tender
 
 let g:syntastic_mode_map = {
@@ -11,5 +12,6 @@ let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 let g:syntastic_javascript_checkers = ['eslint']
 
+let g:jsx_ext_required = 0
+
 nnoremap ; :
-set cursorline
