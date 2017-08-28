@@ -1,4 +1,5 @@
 set cursorline
+highlight Visual ctermbg = 16
 colorscheme mango
 
 let g:syntastic_mode_map = {
