@@ -1,4 +1,5 @@
 set cursorline
+set fillchars+=vert:\ 
 highlight Visual ctermbg = 16
 colorscheme mango
 
