@@ -1,5 +1,7 @@
 set cursorline
 set fillchars+=vert:\ 
+set scrolloff=3
+
 highlight Visual ctermbg = 16
 colorscheme mango
 
