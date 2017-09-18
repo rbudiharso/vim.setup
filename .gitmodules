@@ -16,3 +16,9 @@
 [submodule "mango.vim"]
 	path = mango.vim
 	url = https://github.com/goatslacker/mango.vim.git
+[submodule "csv.vim"]
+	path = csv.vim
+	url = git@github.com:chrisbra/csv.vim.git
+[submodule "tabular"]
+	path = tabular
+	url = git@github.com:godlygeek/tabular.git
