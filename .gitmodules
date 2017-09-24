@@ -22,3 +22,6 @@
 [submodule "tabular"]
 	path = tabular
 	url = git@github.com:godlygeek/tabular.git
+[submodule "vim-vue"]
+	path = vim-vue
+	url = git@github.com:posva/vim-vue.git
