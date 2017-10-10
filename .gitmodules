@@ -25,3 +25,6 @@
 [submodule "vim-vue"]
 	path = vim-vue
 	url = git@github.com:posva/vim-vue.git
+[submodule "Dockerfile.vim"]
+	path = Dockerfile.vim
+	url = git@github.com:ekalinin/Dockerfile.vim.git
