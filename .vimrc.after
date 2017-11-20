@@ -24,3 +24,9 @@ nnoremap ; :
 augroup AuNERDTreeCmd
   autocmd!
 augroup end
+
+" use the_silver_searcher if it's exist
+if executable("ag")
+  let g:ackprg = 'ag --nogroup --nocolor --column'
+endif
+
