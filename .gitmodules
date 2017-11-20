@@ -28,3 +28,6 @@
 [submodule "Dockerfile.vim"]
 	path = Dockerfile.vim
 	url = git@github.com:ekalinin/Dockerfile.vim.git
+[submodule "vim-unimpaired"]
+	path = vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
