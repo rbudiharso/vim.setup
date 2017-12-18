@@ -31,3 +31,6 @@
 [submodule "vim-unimpaired"]
 	path = vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "vim-tmux-navigator"]
+	path = vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
