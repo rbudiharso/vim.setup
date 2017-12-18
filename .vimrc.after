@@ -3,7 +3,7 @@ set fillchars+=vert:\
 set scrolloff=3
 
 highlight Visual ctermbg = 16
-colorscheme mango
+colorscheme Tomorrow-Night
 
 let g:syntastic_mode_map = {
     \ "mode": "active",
