@@ -1,6 +1,7 @@
 set cursorline
 set fillchars+=vert:\ 
 set scrolloff=3
+set foldmethod=syntax
 
 highlight Visual ctermbg = 16
 colorscheme Tomorrow-Night
