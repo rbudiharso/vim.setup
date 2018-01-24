@@ -34,3 +34,6 @@
 [submodule "vim-tmux-navigator"]
 	path = vim-tmux-navigator
 	url = https://github.com/christoomey/vim-tmux-navigator.git
+[submodule "vim-prettier"]
+	path = vim-prettier
+	url = https://github.com/prettier/vim-prettier.git
