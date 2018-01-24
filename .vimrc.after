@@ -6,18 +6,18 @@ set foldmethod=syntax
 highlight Visual ctermbg = 16
 colorscheme Tomorrow-Night
 
-let g:syntastic_mode_map = {
-    \ "mode": "active",
-    \ "active_filetypes": ["javascript", "html", "handlebars", "json", "yaml"],
-    \ "passive_filetypes": []
-    \ }
-let g:syntastic_always_populate_loc_list = 1
-let g:syntastic_auto_loc_list = 1
-let g:syntastic_check_on_open = 1
-let g:syntastic_check_on_wq = 0
-let g:syntastic_javascript_checkers = ['eslint']
+" let g:syntastic_mode_map = {
+"     \ "mode": "active",
+"     \ "active_filetypes": ["javascript", "html", "handlebars", "json", "yaml"],
+"     \ "passive_filetypes": []
+"     \ }
+" let g:syntastic_always_populate_loc_list = 1
+" let g:syntastic_auto_loc_list = 1
+" let g:syntastic_check_on_open = 1
+" let g:syntastic_check_on_wq = 0
+" let g:syntastic_javascript_checkers = ['eslint']
 
-let g:jsx_ext_required = 0
+" let g:jsx_ext_required = 0
 
 nnoremap ; :
 
@@ -31,3 +31,8 @@ if executable("ag")
   let g:ackprg = 'ag --nogroup --nocolor --column'
 endif
 
+" ALE linter
+let g:ale_fixers = {
+  \ "javascript": ["eslint"]
+  \ }
+nmap <leader>d <Plug>(ale_fix)

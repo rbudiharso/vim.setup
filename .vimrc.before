@@ -1,4 +1,5 @@
 set noshowmode
+call janus#disable_plugin('syntastic')
 
 let g:lightline = {
     \ 'colorscheme': 'default',

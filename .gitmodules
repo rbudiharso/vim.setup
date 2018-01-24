@@ -37,3 +37,6 @@
 [submodule "vim-prettier"]
 	path = vim-prettier
 	url = https://github.com/prettier/vim-prettier.git
+[submodule "ale"]
+	path = ale
+	url = https://github.com/w0rp/ale.git
