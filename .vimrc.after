@@ -36,3 +36,4 @@ let g:ale_fixers = {
   \ "javascript": ["eslint"]
   \ }
 nmap <leader>d <Plug>(ale_fix)
+let g:airline#extensions#ale#enabled = 1

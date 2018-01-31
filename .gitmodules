@@ -40,3 +40,6 @@
 [submodule "ale"]
 	path = ale
 	url = https://github.com/w0rp/ale.git
+[submodule "vim-simpledb"]
+	path = vim-simpledb
+	url = https://github.com/ivalkeen/vim-simpledb.git
