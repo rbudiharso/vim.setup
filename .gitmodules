@@ -43,3 +43,6 @@
 [submodule "vim-simpledb"]
 	path = vim-simpledb
 	url = https://github.com/hwartig/vim-simpledb.git
+[submodule "vim-jsdoc"]
+	path = vim-jsdoc
+	url = https://github.com/heavenshell/vim-jsdoc.git
