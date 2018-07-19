@@ -1,7 +1,7 @@
 set noshowmode
 
 let g:lightline = {
-    \ 'colorscheme': 'default',
+    \ 'colorscheme': 'tender',
     \ 'active': {
     \   'left': [ [ 'mode', 'paste' ],
     \             [ 'gitbranch', 'readonly', 'filename' ] ],

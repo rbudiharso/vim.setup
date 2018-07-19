@@ -4,7 +4,7 @@ set scrolloff=3
 " set foldmethod=syntax
 
 highlight Visual ctermbg = 16
-colorscheme Tomorrow-Night
+colorscheme tender
 
 let g:syntastic_mode_map = {
     \ "mode": "active",
