@@ -13,9 +13,6 @@
 [submodule "vim-jsx"]
 	path = vim-jsx
 	url = https://github.com/mxw/vim-jsx.git
-[submodule "mango.vim"]
-	path = mango.vim
-	url = https://github.com/goatslacker/mango.vim.git
 [submodule "csv.vim"]
 	path = csv.vim
 	url = git@github.com:chrisbra/csv.vim.git
@@ -31,15 +28,6 @@
 [submodule "vim-unimpaired"]
 	path = vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
-[submodule "vim-tmux-navigator"]
-	path = vim-tmux-navigator
-	url = https://github.com/christoomey/vim-tmux-navigator.git
 [submodule "vim-prettier"]
 	path = vim-prettier
 	url = https://github.com/prettier/vim-prettier.git
-[submodule "vim-simpledb"]
-	path = vim-simpledb
-	url = https://github.com/hwartig/vim-simpledb.git
-[submodule "vim-jsdoc"]
-	path = vim-jsdoc
-	url = https://github.com/heavenshell/vim-jsdoc.git
